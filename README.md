@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rogerguimaraes.carrd.co**
 
-- 📄 Know about my experiences [rogerguimaraes.carrd.co](rogerguimaraes.carrd.co)
+- 📄 Know about my experiences [https://roger-portfolio-yix5.onrender.com](https://roger-portfolio-yix5.onrender.com)
 
 - ⚡ Fun fact **i have studied python since the age of 11**
 
